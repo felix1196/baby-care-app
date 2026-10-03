@@ -18,7 +18,9 @@ export function renderDashboardLayout() {
     <div class="app-shell">
       <header class="app-header">
         <div class="brand">
-          <div class="brand-mark">B</div>
+          <div class="brand-mark">
+            <img src="./assets/logo.svg" alt="BabyCare Plus" />
+          </div>
           <div>
             <h2>BabyCare Plus</h2>
             <small>Seguimiento del bebé</small>

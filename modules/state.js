@@ -5,7 +5,14 @@ export const STORAGE_KEYS = {
 };
 
 export const defaultUsers = [
-  { id: 'admin-1', name: 'Administrador', username: 'admin', password: 'admin', role: 'admin' },
+  {
+    id: 'admin-1',
+    name: 'Administrador',
+    username: 'admin',
+    email: 'admin@babycare.app',
+    password: 'admin',
+    role: 'admin',
+  },
 ];
 
 export const defaultRecommendations = {

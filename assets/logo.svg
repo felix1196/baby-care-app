@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="16" y1="16" x2="112" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5A7CFF"/>
+      <stop offset="1" stop-color="#FF8BB2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="40" y1="30" x2="96" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7AD8C8"/>
+      <stop offset="1" stop-color="#DFF7F3"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="30" fill="url(#bg)"/>
+  <path d="M82 38.5C75 25.5 60.2 26.8 53.5 36.7C47.2 46.1 48.9 58.8 58.7 67.5C64.1 72.1 68.8 75 73.7 78.2C79.7 81.9 83.5 87.8 83.5 94.2C83.5 98.5 80.7 102 76.5 102H51.5C42.8 102 35.8 95 35.8 86.1C35.8 77.2 42.9 70 51.6 70H55.4C57.2 70 58.7 68.5 58.7 66.7C58.7 64.9 57.2 63.4 55.4 63.4H48.9C38.8 63.4 30.8 55.3 30.8 45.1C30.8 35.3 38.1 27.2 47.1 27.2C56.7 27.2 63.6 35.1 64.6 44.2C69.8 31.5 79.7 27.7 89.7 32.7C96.1 36.2 100.5 42.2 100.5 49.4C100.5 59.1 94.1 66.9 84.6 69.1L81.8 70.2C77.2 71.7 74.1 76.1 74.1 80.9V82.8H80.7C89.4 82.8 96.4 75.9 96.4 67.2C96.4 57.9 90.2 48.9 82 38.5Z" fill="url(#accent)" fill-opacity="0.95"/>
+  <circle cx="44" cy="45" r="8" fill="white" fill-opacity="0.9"/>
+  <circle cx="76" cy="46" r="8" fill="white" fill-opacity="0.9"/>
+  <path d="M45.5 70C50.5 74.8 57.7 77.3 64.8 77.3C72 77.3 79.2 74.7 84.2 70" stroke="white" stroke-width="6" stroke-linecap="round"/>
+</svg>
